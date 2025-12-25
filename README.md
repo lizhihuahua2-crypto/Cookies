@@ -1,4 +1,3 @@
-[Uploading Cookies.html…]()
 <!DOCTYPE html>
 <html lang="en">
 <head>
